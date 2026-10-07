@@ -1,73 +1,65 @@
-# 💎 I-Am-Rich iOS App
+# 💎 I-Am-Rich — SwiftUI iOS App
 
-A simple iOS application built with **Swift and UIKit**.
-This project demonstrates fundamental iOS development concepts including UI design, image assets, view controllers, and Xcode project structure.
+A simple and beginner-friendly iOS application built using **SwiftUI**.
 
-## 📱 About the App
+The **I-Am-Rich** app is focused on understanding SwiftUI fundamentals, UI composition, image/assets integration, and building a clean iOS interface.
 
-**I-Am-Rich** is a beginner-friendly iOS application created to practice building an app interface using **Swift + UIKit**.
+## 📱 App Preview
 
-The app displays a luxury-themed interface with a diamond image and demonstrates how to work with:
+> Add your app screenshot here.
 
-* UIKit
-* Storyboard
-* UIImageView
-* Image Assets
-* ViewController
-* Auto Layout
-* Xcode project structure
+![I-Am-Rich App](Screenshots/i-am-rich.png)
+
+## 🚀 Features
+
+* Built completely with **SwiftUI**
+* Clean and simple user interface
+* Custom image/asset integration
+* SwiftUI `Text`, `Image`, `VStack`, and `Spacer`
+* Responsive layout
+* iOS native design
 
 ## 🛠️ Technologies Used
 
 * **Swift**
-* **UIKit**
-* **Storyboard**
-* **Auto Layout**
+* **SwiftUI**
 * **Xcode**
 * **iOS**
 
-## ✨ Features
+## 📚 SwiftUI Concepts
 
-* 💎 Simple luxury-themed UI
-* 🖼️ Custom image asset
-* 📱 Responsive layout using Auto Layout
-* 🎨 Clean and minimal interface
-* ⚡ Lightweight iOS application
+This project demonstrates:
+
+* `View`
+* `Text`
+* `Image`
+* `VStack`
+* `HStack`
+* `Spacer`
+* Image Assets
+* SwiftUI Preview
+* Basic layout and styling
 
 ## 📂 Project Structure
 
 ```text
-I-Am-Rich-iOS/
+I-Am-Rich-SwiftUI/
 │
 ├── I-Am-Rich/
-│   ├── AppDelegate.swift
-│   ├── SceneDelegate.swift
-│   ├── ViewController.swift
-│   ├── Main.storyboard
+│   ├── ContentView.swift
 │   ├── Assets.xcassets
-│   └── Info.plist
+│   └── I_Am_RichApp.swift
 │
-└── I-Am-Rich.xcodeproj
+├── Screenshots/
+│   └── i-am-rich.png
+│
+├── .gitignore
+└── README.md
 ```
 
-## 🚀 Getting Started
+## 🎯 Purpose
 
-1. Clone this repository.
-2. Open `I-Am-Rich.xcodeproj` in Xcode.
-3. Select an iOS Simulator or connected device.
-4. Press **⌘ + R** to build and run the application.
-
-## 🎯 What I Learned
-
-This project helped me practice:
-
-* Creating an iOS project using Xcode
-* Working with UIKit
-* Designing interfaces using Storyboard
-* Adding and managing image assets
-* Using Auto Layout
-* Connecting UI elements with Swift code
-* Building and running an iOS application
+This project was created to practice **SwiftUI fundamentals** and build a simple iOS application using Apple's modern declarative UI framework.
 
 ## 👨‍💻 Author
 
@@ -75,9 +67,9 @@ This project helped me practice:
 
 **iOS Developer | 2+ Years Experience**
 
-* GitHub: github.com/anilyadavjnt
 * LinkedIn: linkedin.com/in/anilyadavjnt
+* GitHub: github.com/anilyadavjnt
 
----
+## ⭐ Support
 
-⭐ If you find this project useful, consider giving it a star!
+If you find this project useful, consider giving it a ⭐ on GitHub.
