@@ -10,7 +10,6 @@ The **I-Am-Rich** app is focused on understanding SwiftUI fundamentals, UI compo
 
 ![I-Am-Rich App](Screenshots/i-am-rich.png)
 
-
 ## 🚀 Features
 
 * Built completely with **SwiftUI**
